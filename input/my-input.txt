@@ -1,0 +1,85 @@
+As a user, I want to sign up with my email and password to create an account.
+As a user, I want to log in with my email and password.
+As a user, I want the option to log in using my social media accounts (e.g., Facebook, Google).
+As a user, I want to reset my password in case I forget it.
+As a user, I want to receive an email confirmation after registration.
+As a user, I want to browse products by category (e.g., electronics, clothing).
+As a user, I want to search for products by keywords.
+As a user, I want to filter search results by price, brand, and ratings.
+As a user, I want to see product details including price, description, and reviews.
+As a user, I want to view product images and zoom in for a closer look.
+As a user, I want to add a product to my cart with a single click.
+As a user, I want to change the quantity of items in my cart.
+As a user, I want to remove items from my cart.
+As a user, I want to see the total cost of items in my cart.
+As a user, I want to proceed to the checkout page from my cart.
+As a user, I want to enter my shipping address and payment details.
+As a user, I want to review my order before confirming it.
+As a user, I want to apply coupon codes for discounts.
+As a user, I want to choose from various payment methods (credit card, PayPal, etc.).
+As a user, I want to receive an order confirmation email.
+As a user, I want to track the status of my order in real-time.
+As a user, I want to view my order history.
+As a user, I want to request returns or exchanges.
+As a user, I want to leave feedback and ratings for my past orders.
+As a user, I want to edit my profile information (name, email, password).
+As a user, I want to save multiple shipping addresses.
+As a user, I want to manage my newsletter subscription preferences.
+As a user, I want to delete my account and personal data.
+As a user, I want to add products to my wishlist for future reference.
+As a user, I want to view my wishlist and move items to my cart.
+As a user, I want to view my recently viewed products.
+As a user, I want to receive push notifications for order updates and promotions.
+As a user, I want to receive email notifications for important account activities.
+As a user with a disability, I want the app to be accessible with screen readers.
+As a user with color blindness, I want color-contrasted buttons and text.
+As a user, I want my payment information to be secure and encrypted.
+As a user, I want to control my data privacy settings.
+As a user, I want the app to be available in multiple languages.
+As a user, I want prices and currency to be displayed in my local currency.
+As a user, I want to read and filter product reviews by rating and relevance.
+As a user, I want to leave detailed reviews and ratings for products I've purchased.
+As a user, I want to see the average rating for each product in search results.
+As a user, I want to receive product recommendations based on my browsing and purchase history.
+As a user, I want to see a "You may also like" section on product pages.
+As a user, I want to scan barcodes of physical products to quickly find and purchase them.
+As a user, I want to see product details when scanning a barcode.
+As a user, I want to use AR to virtually try on clothing and accessories.
+As a user, I want to see how furniture and home decor items look in my space using AR.
+As a user, I want to purchase and redeem gift cards.
+As a user, I want to add gift wrapping and personalized notes to my orders.
+As a user, I want to find the nearest physical store locations.
+As a user, I want the option to buy online and pick up in-store (BOPIS).
+As a user, I want to share product links and reviews on social media.
+As a user, I want to see products recommended by friends or influencers.
+As a user, I want to save products to a wishlist when offline, with sync when online.
+As a user, I want to view previously loaded product pages while offline.
+As a user, I want to receive notifications when a wishlist item goes on sale.
+As a user, I want to be alerted when a saved item is running low in stock.
+As a user, I want to split a single order into multiple shipments.
+As a user, I want to choose between express and standard shipping for each item in my cart.
+As a user, I want to subscribe to products for regular delivery (e.g., monthly coffee subscription).
+As a user, I want to manage my subscription settings and delivery schedule.
+As a user, I want to view ratings and feedback for individual sellers in a marketplace.
+As a user, I want to leave seller-specific feedback and ratings.
+As a user, I want to virtually try on clothing using my device's camera.
+As a user, I want to see outfit recommendations based on my current wardrobe.
+As a user, I want to place bulk orders for corporate or group purchases.
+As a user, I want to upload a CSV file with a list of products for bulk ordering.
+As a user, I want to filter products by eco-friendly and sustainable options.
+As a user, I want to see information about the environmental impact of products.
+As a user, I want to search for products and navigate the app using voice commands.
+As a user, I want to shop using virtual assistants like Siri or Google Assistant.
+As a user, I want the option to switch between light and dark modes.
+As a user, I want to access interactive tutorials for using the app's features effectively.
+As a user, I want to measure products to see if they fit in my space using AR.
+As a user, I want to chat with a virtual personal shopper for product recommendations.
+As a user, I want to track my loyalty program rewards.
+As a user, I want to participate in live auctions for unique and rare items.
+As a user, I want to see how many items I can carry before I reach my capacity, useful for shopping at physical stores.
+As a user, I want to receive notifications when an out-of-stock item becomes available.
+As a user, I want to create and manage multiple wishlists for different occasions or categories.
+As a user, I want to use blockchain technology for secure and tamper-proof authentication.
+As a user, I want to view limited-time daily deals for discounts on various products.
+As a user, I want to set price drop alerts for specific products I'm interested in.
+As a user, I want to see historical price trends for products to make informed purchase decisions.
